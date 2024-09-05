@@ -6,5 +6,9 @@ public class inputoutput {
         Scanner sc = new Scanner(System.in);
         String add = sc.nextLine();
         System.out.println(add);
+
+        // string length
+
+        System.out.println(add.length());
     }
 }
